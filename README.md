@@ -137,13 +137,6 @@ The editor will open with:
 
 Assets are not included in the repository due to size limits.
 
-Download them here:
-
-**Assets Download:**  
-👉 *[Add your Google Drive link here]*
-
-Place the assets inside:
-
 BloomEngine/Assets/
 
 
@@ -151,7 +144,7 @@ BloomEngine/Assets/
 
 ## 📸 Screenshots / Demo
 
-(Add images or a YouTube link when you have them)
+https://www.youtube.com/@controlgames3412
 
 ---
 
